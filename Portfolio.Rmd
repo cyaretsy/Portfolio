@@ -13,6 +13,6 @@ Hello I am Yaretsy Castro, a recent grad of Smith College. I am a first generati
 
 ## Projects
 
-### 1. \href{../Projects/Telematics-Data-101.html}{\textcolor{blue}{\textbf{Telematics Data Analysis}}}
+### 1. \href{../Portfolio/Projects/Telematics-Data-101.html}{\textcolor{blue}{\textbf{Telematics Data Analysis}}}
 
-### 2. \href{../Projects/final-project.html}{\textcolor{blue}{\textbf{VAERS User Guide}}}
+### 2. \href{../Portfolio/Projects/final-project.html}{\textcolor{blue}{\textbf{VAERS User Guide}}}
