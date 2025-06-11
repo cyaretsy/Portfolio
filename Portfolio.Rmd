@@ -9,10 +9,10 @@ header-includes:
 
 ### Introduction
 
-Hello I am Yaretsy Castro, a recent grad of Smith College. I am a first generation student, so I am unaware of job hunting, so I created this portfolio in hopes of showing my skills more effectively. Thank you so much for your time, hope you find a candidate that best fits.
+Hello I am Yaretsy Castro, a recent grad of Smith College. I am a first generation student, so I am unaware of job hunting. I created this portfolio in hopes of showing my skills more effectively. Thank you so much for your time, hope you find a candidate that best fits.
 
 ## Projects
 
 ### 1. \href{../Portfolio/Projects/Telematics-Data-101.html}{\textcolor{blue}{\textbf{Telematics Data Analysis}}}
 
-### 2. \href{../Portfolio/Projects/final-project.html}{\textcolor{blue}{\textbf{VAERS User Guide}}}
+### 2. \href{https://github.com/cyaretsy/Portfolio/blob/545861d4c41e5ce249de61acea9818312c315349/Projects/final-project.pdf}{\textcolor{blue}{\textbf{VAERS User Guide}}}

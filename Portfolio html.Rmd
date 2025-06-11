@@ -1,0 +1,19 @@
+---
+title: "Untitled"
+author: "Yaretsy Castro"
+date: "2024-10-15"
+output: html_document
+---
+### Introduction
+
+Hello I am Yaretsy Castro, a recent grad of Smith College. I am a first generation student, so I am unaware of job hunting. I created this portfolio in hopes of showing my skills more effectively. Thank you so much for your time, hope you find a candidate that best fits.
+
+## Projects
+
+
+[**VAERS User Guide**](https://github.com/cyaretsy/Portfolio/blob/545861d4c41e5ce249de61acea9818312c315349/Projects/final-project.pdf)
+[Telematics Data 101](../Portfolio/Projects/Telematics-Data-101.html)
+
+### 1. \href{../Portfolio/Projects/Telematics-Data-101.html}{\textcolor{blue}{\textbf{Telematics Data 101}}}
+
+### 2. \href{https://github.com/cyaretsy/Portfolio/blob/545861d4c41e5ce249de61acea9818312c315349/Projects/final-project.pdf}{\textcolor{blue}{\textbf{VAERS User Guide}}}
