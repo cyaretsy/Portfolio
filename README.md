@@ -13,4 +13,4 @@ Hello I am Yaretsy Castro, a recent grad of Smith College. I am a first generati
 
 ### 2. [VAERS User Guide pdf](Projects/final-project.pdf)
 
-### 3. [Telematics Data Analysis.html(must download)](Projects/term_paper.html) | [Telematics Data Analysis.pdf](Projects/Telematics%20Data%20101.pdf)
+### 3. [Telematics Data Analysis.html(must download)](Projects/Telematics%20Data%20101.html) | [Telematics Data Analysis.pdf](Projects/Telematics%20Data%20101.pdf)
