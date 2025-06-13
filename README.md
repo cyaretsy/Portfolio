@@ -1,11 +1,9 @@
 ---
-title: "Portfolio of Statistical and Data Sciences"
-author: "Yaretsy Castro"
-date: "2024-10-15"
 output: pdf_document
 ---
+# Portfolio of Statistical and Data Sciences
 
-### Introduction
+## Introduction
 
 Hello I am Yaretsy Castro, a recent grad of Smith College. I am a first generation student, so I am unaware of job hunting, so I created this portfolio in hopes of showing my skills more effectively. Thank you so much for your time, hope you find a candidate that best fits.
 
