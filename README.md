@@ -14,6 +14,11 @@ If you click on the projects below, you would be led to the each project on guth
 ## Projects
 
 ### 1. [Email Usage pdf](Projects/Mini-Project-1.pdf)
+This experiment investigates whether Smith College students are more likely to use certain apps depending on
+the time of day. Students were asked to rate three types of apps they are most likely to use: social media,
+streaming apps, and email. This project focuses specifically on email usage.
+The null hypothesis is that there is no difference in the likelihood of email usage between different times of
+day. The three time points considered are 8:00 AM, 12:00 PM, and 4:00 PM.
 
 ### 2. [VAERS User Guide pdf](Projects/final-project.pdf)
 
