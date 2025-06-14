@@ -32,3 +32,8 @@ FDA, a brief description of VAERS, cautions on interpreting VAERS data, definiti
 of files, and list of commonly used abbreviations”.
 
 ### 3. [Telematics Data Analysis.html(must download)](Projects/Telematics-Data-101.html) | [Telematics Data Analysis.pdf](Projects/Telematics%20Data%20101.pdf)
+In this experiment we create an intro guide into telematics data. - Telematics data essentially comes from the telematics system found in a vehicle’s tracking equipment. It records data that is being sent, received or stored by
+the tracking system. More specifically, telematics data include data on speed, precise location (addresses or
+coordinates) and time, route undertaken, safety metrics, acceleration, fuel intake, and many more. Telematics data
+can also include multiple datasets that each consists of a subset of variables. Such an example will be explained
+below using the data used to create this report.
