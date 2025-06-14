@@ -39,3 +39,8 @@ can also include multiple datasets that each consists of a subset of variables. 
 below using the data used to create this report.
 
 ### 4. [SQL and One Piece anime](https://github.com/ST47S-SQL-Jan24/SDS261-proj-Cyaretsy)
+For this project I wanted to create a database for my 
+favorite show called One Piece. One Piece is a very 
+popular anime show from Japan. I found the tables for the database 
+using [Google Dataset Search](https://datasetsearch.research.google.com/). 
+I used two tables from Kaggle and one from Hugging Face.
