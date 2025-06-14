@@ -1,7 +1,7 @@
 ---
 output: pdf_document
 ---
-# Portfolio of Statistical and Data Sciences
+# Portfolio of Aspiring Data Analyst Yretsy Castro
 
 ## Introduction
 Hello, my name is Yaretsy Castro, an aspiring Data Analyst. 
