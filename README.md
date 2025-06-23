@@ -9,7 +9,7 @@ I graduated from Smitb College with a B.A. in Statistical and Data Sciences.
 During my time at Smith College I colloborated in numerous projects.
 Through these projects I learned to code in R and data analysis skills, such as data mining, data cleaning, data manipulation, data visualization, data modeling and more. 
 
-If you click on the projects below, you would be led to the each project on guthub. Thank you for your interest. 
+If you click on the projects below, you would be led to the each project on github. Thank you for your interest. 
 
 ## Projects
 
